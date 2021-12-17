@@ -1,22 +1,7 @@
 [
   {
   "id": "01",
-  "username": "hajira",
-  "password": "hajira1234"
-},
-{
-  "id": "02",
-  "username": "zainab",
-  "password": "zainab1234"
-},
-{
-  "id": "03",
-  "username": "ayeza",
-  "password": "ayeza1234"
-},
-{
-  "id": "04",
-  "username": "usman",
-  "password": "usman1234"
-}
+  "username": "saad",
+  "password": "saad"
+
 ]
